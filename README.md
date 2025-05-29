@@ -1,8 +1,8 @@
-# Complement pathway dysregulation and astrocyte alterations in Down syndrome:Integrating postmortem brain data and iPSC-derived astrocytes
+# Complement pathway dysregulation and astrocyte alterations in Down syndrome: Integrating postmortem brain data and iPSC-derived astrocytes
 
 The analysis presented here belongs to the paper:
 
-**Teles e Silva & Prado de Oliveira et al (2024). Complement pathway dysregulation and astrocyte alterations in Down syndrome:Integrating postmortem brain data and iPSC-derived astrocytes**
+**Teles e Silva & Prado de Oliveira et al (2024). Complement pathway dysregulation and astrocyte alterations in Down syndrome: Integrating postmortem brain data and iPSC-derived astrocytes**
 
 The single nucleus RNA-seq data used for the analysis was provided from:
 
